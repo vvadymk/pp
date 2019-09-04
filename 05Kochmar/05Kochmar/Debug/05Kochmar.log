@@ -1,0 +1,3 @@
+﻿  Horner.cpp
+d:\proceduralprogramming\05kochmar\05kochmar\horner.cpp(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  05Kochmar.vcxproj -> D:\ProceduralProgramming\05Kochmar\Debug\05Kochmar.exe
